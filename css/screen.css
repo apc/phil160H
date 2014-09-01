@@ -122,8 +122,9 @@ div#nav ul li.current { list-style: square; }*/
 
 #footer a{
 	text-decoration:none;
-	color:#555;
+	color:#555 !important;
 	font-weight:400;
+	cursor:pointer;
 }
 
 #nav a:hover, #footer a:hover{
